@@ -1,2 +1,2 @@
 # Computer-Graphics
-Implementd in python3
+Implemented in python3
